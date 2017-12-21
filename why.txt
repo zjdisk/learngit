@@ -12,3 +12,5 @@ Branch
 master
 Feature1
 fatal
+
+feature2
