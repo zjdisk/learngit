@@ -10,3 +10,5 @@ Three
 
 Branch
 master
+Feature1
+fatal
